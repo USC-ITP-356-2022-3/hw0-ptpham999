@@ -1,8 +1,15 @@
+Phuonggy Pham - Pham Thi Hoang Phuong - 2346234026
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+
+![](2022-09-01-01-40-36.png)
+
+![](2022-09-01-01-42-33.png)
+![](2022-09-01-01-44-07.png)
+
 
 ## :octocat: Git and GitHub
 
